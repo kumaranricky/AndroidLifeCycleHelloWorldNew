@@ -95,8 +95,8 @@ activity_main.xml
 
 ```
 
-# OUTPUT
-#![create](https://user-images.githubusercontent.com/75243072/165220565-b60cdf6e-e1de-47b5-8e08-335c398cd870.png)
+## OUTPUT
+![create](https://user-images.githubusercontent.com/75243072/165220565-b60cdf6e-e1de-47b5-8e08-335c398cd870.png)
 ![start](https://user-images.githubusercontent.com/75243072/165220664-d2808a80-961c-4e7f-969e-3044427e79b6.png)
 ![stop](https://user-images.githubusercontent.com/75243072/165220966-4dcfe574-27bb-4fe7-bb17-4afc1325cd99.png)
 ![resume](https://user-images.githubusercontent.com/75243072/165221096-4fcc9378-c5fb-47b3-ac92-3f1a52a59291.png)
